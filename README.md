@@ -1,2 +1,2 @@
 # Light_Action
-Turn on / off of light by html/css 
+Turn on / off of light by html/css.
